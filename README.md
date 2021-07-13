@@ -1,6 +1,6 @@
 # [![Shayan Sohail Header](https://github.com/shayansoh/shayansoh/blob/00dd477a979eefbfb95b7657189e8214f593443c/banner.jpg)](https://shayansoh.github.io/)
 
-- 🎓 I’m in my final year of grad school at University of Toronto where I'm studying data science, machine learning, and everything in between
+- 🎓 I’m in my final year of grad school at UofT, where I'm studying data science, machine learning, and everything in between
 - 🧠 I’m currently researching deep learning and neural nets
 - 🎯 2021 Goals: Contributing to open-source projects/libraries
 - ⚡ Fun fact: I love listening to podcasts and hope to one day start one myself
